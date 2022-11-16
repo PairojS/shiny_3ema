@@ -1,2 +1,2 @@
 # shiny_3ema
-3ema with Heiken Ashi and Machine learning
+3ema with Heiken Ashi and Machine learning branch1
